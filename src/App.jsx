@@ -10,7 +10,7 @@ function App() {
 		<Box backgroundColor='background'>
 			<Navbar />
 			<About />
-			<Divider orientation='horizontal' padding='64px 0' borderColor='gray' />
+			<Divider orientation='horizontal' borderColor='gray' />
 			<Project />
 			<Contact />
 			<Divider orientation='horizontal' borderColor='brand.700' />
